@@ -67,10 +67,8 @@ NextJSレベル5通信処理修了
 
 ## 目標
 * フォーム処理
-* ReactHookForm
-* Zod
 * バリデーション
+* * ReactHookForm
+* Zod
 * サーバーアクション
 * 通信処理との統合
-
-
